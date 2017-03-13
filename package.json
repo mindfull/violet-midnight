@@ -1,6 +1,6 @@
 {
-    "name": "theme-violetnoon",
-    "displayName": "Violet Noon",
+    "name": "theme-violet-midnight",
+    "displayName": "Violet Midnight",
     "description": "A Violet Theme based on One Dark Theme.",
     "version": "0.1.0",
     "publisher": "mindFULL",
@@ -15,9 +15,9 @@
     "contributes": {
         "themes": [
             {
-                "label": "Violet Noon",
+                "label": "Violet Midnight",
                 "uiTheme": "vs-dark",
-                "path": "./themes/violet-noon.tmTheme"
+                "path": "./themes/violet-midnight.tmTheme"
             }
         ]
     }

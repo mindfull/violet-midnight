@@ -1,4 +1,4 @@
-# Violet Noon
+# Violet Midnight
 
 Violet and dark theme for Visual Studio Code. Based on Atom's One Dark.
 
@@ -7,7 +7,7 @@ Violet and dark theme for Visual Studio Code. Based on Atom's One Dark.
 WIP
 
 ```
-ext install theme-violetnoon
+ext install theme-violetmidnight
 ```
 
 ## Screenshot
