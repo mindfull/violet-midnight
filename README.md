@@ -7,7 +7,7 @@ Violet and dark theme for Visual Studio Code. Based on Atom's One Dark.
 Press `ctl/cmd + shift + p` to launch the command palette then run
 
 ```
-ext install theme-violetmidnight
+ext install theme-violet-midnight
 ```
 
 ## Screenshot
