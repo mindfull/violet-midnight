@@ -2,13 +2,14 @@
     "name": "theme-violet-midnight",
     "displayName": "Violet Midnight",
     "description": "A Violet Theme based on One Dark Theme.",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "publisher": "mindFULL",
     "author": "Tae-geon Choi <contact@zfbe.com> (http://zfbe.com)",
     "license": "MIT",
     "engines": {
         "vscode": "^1.10.0"
     },
+    "icon": "icon.svg",
     "categories": [
         "Themes"
     ],
