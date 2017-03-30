@@ -16,4 +16,5 @@ ext install theme-violet-midnight
 
 ## Changelog
 
-v0.1.1: Add theme icon and fix readme
+v0.1.2: Add git repo information in package.json
+v0.1.1: Add theme icon and fix README
