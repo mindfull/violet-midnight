@@ -2,7 +2,7 @@
     "name": "theme-violet-midnight",
     "displayName": "Violet Midnight",
     "description": "A Violet Theme based on One Dark Theme.",
-    "version": "0.1.1",
+    "version": "0.1.2",
     "publisher": "mindFULL",
     "author": "Tae-geon Choi <contact@zfbe.com> (http://zfbe.com)",
     "license": "MIT",
@@ -21,5 +21,13 @@
                 "path": "./themes/violet-midnight.tmTheme"
             }
         ]
+    },
+    "bugs": {
+        "url": "https://github.com/mindfull/violet-midnight/issues"
+    },
+    "homepage": "https://github.com/mindfull/violet-midnight/blob/master/README.md",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/mindfull/violet-midnight.git"
     }
 }
