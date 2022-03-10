@@ -1,33 +1,38 @@
 {
-    "name": "theme-violet-midnight",
-    "displayName": "Violet Midnight",
-    "description": "A Violet Theme based on One Dark Theme.",
-    "version": "1.0.1",
-    "publisher": "mindFULL",
-    "author": "Tae-geon Choi <contact@zfbe.com> (http://zfbe.com)",
-    "license": "MIT",
-    "engines": {
-        "vscode": "^1.12.0"
-    },
-    "icon": "icon.png",
-    "categories": [
-        "Themes"
-    ],
-    "contributes": {
-        "themes": [
-            {
-                "label": "Violet Midnight",
-                "uiTheme": "vs-dark",
-                "path": "./themes/violet-midnight.json"
-            }
-        ]
-    },
-    "bugs": {
-        "url": "https://github.com/mindfull/violet-midnight/issues"
-    },
-    "homepage": "https://github.com/mindfull/violet-midnight/blob/master/README.md",
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/mindfull/violet-midnight.git"
-    }
+  "name": "theme-violet-midnight",
+  "displayName": "Violet Midnight",
+  "description": "A Violet Theme based on One Dark Theme.",
+  "version": "1.1.0",
+  "publisher": "mindFULL",
+  "author": "Tae-geon Choi <contact@zfbe.com> (http://zfbe.com)",
+  "license": "MIT",
+  "engines": {
+    "vscode": "^1.12.0"
+  },
+  "icon": "icon.png",
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Violet Midnight",
+        "uiTheme": "vs-dark",
+        "path": "./themes/violet-midnight.json"
+      },
+      {
+        "label": "Violet Midnight Italic",
+        "uiTheme": "vs-dark",
+        "path": "./themes/violet-midnight-italic.json"
+      }
+    ]
+  },
+  "bugs": {
+    "url": "https://github.com/mindfull/violet-midnight/issues"
+  },
+  "homepage": "https://github.com/mindfull/violet-midnight/blob/master/README.md",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mindfull/violet-midnight.git"
+  }
 }

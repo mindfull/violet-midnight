@@ -16,7 +16,8 @@ ext install theme-violet-midnight
 
 ## Changelog
 
-v0.1.2: Add git repo information in package.json
-v0.1.1: Add theme icon and fix README
-v1.0.0: Adjust tone and set colors for sidebar
-v1.0.1: Update screenshot and changelog
+* v1.1.0: Supports italic version of the theme
+* v1.0.1: Update screenshot and changelog
+* v1.0.0: Adjust tone and set colors for sidebar
+* v0.1.2: Add git repo information in package.json
+* v0.1.1: Add theme icon and fix README

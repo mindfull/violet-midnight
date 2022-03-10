@@ -1,5 +1,5 @@
 {
-  "name": "Violet Midnight",
+  "name": "Violet Midnight Italic",
   "type": "dark",
   "colors": {
     "activityBar.background": "#232034",
@@ -76,6 +76,18 @@
         "bracketContentsForeground": "#F8F8F2A5",
         "bracketContentsOptions": "underline",
         "tagsOptions": "stippled_underline"
+      }
+    },
+    {
+      "scope": "emphasis",
+      "settings": {
+        "fontStyle": "italic"
+      }
+    },
+    {
+      "scope": "strong",
+      "settings": {
+        "fontStyle": "bold"
       }
     },
     {
@@ -209,6 +221,18 @@
       }
     },
     {
+      "scope": "storage.type",
+      "settings": {
+        "fontStyle": "italic"
+      }
+    },
+    {
+      "scope": "storage.modifier",
+      "settings": {
+        "fontStyle": "italic"
+      }
+    },
+    {
       "name": "Class name",
       "scope": [
         "entity.name.class",
@@ -224,6 +248,12 @@
       "scope": "entity.other.inherited-class",
       "settings": {
         "foreground": "#98c379"
+      }
+    },
+    {
+      "scope": "entity.other.attribute-name",
+      "settings": {
+        "fontStyle": "italic"
       }
     },
     {
@@ -322,7 +352,7 @@
         "support.type.property-name.sass"
       ],
       "settings": {
-        "foreground": "#DFC184"
+        "foreground": "#d19a66"
       }
     },
     {
@@ -469,6 +499,30 @@
       }
     },
     {
+      "scope": "markup.underline",
+      "settings": {
+        "fontStyle": "underline"
+      }
+    },
+    {
+      "scope": "markup.bold",
+      "settings": {
+        "fontStyle": "bold"
+      }
+    },
+    {
+      "scope": "markup.heading",
+      "settings": {
+        "fontStyle": "bold"
+      }
+    },
+    {
+      "scope": "markup.italic",
+      "settings": {
+        "fontStyle": "italic"
+      }
+    },
+    {
       "scope": "constant.numeric.line-number.find-in-files - match",
       "settings": {
         "foreground": "#56b6c2A0"
@@ -479,8 +533,57 @@
       "settings": {
         "foreground": "#98c379"
       }
+    },
+    {
+      "name": "String interpolation",
+      "scope": [
+        "punctuation.definition.template-expression.begin",
+        "punctuation.definition.template-expression.end",
+        "punctuation.section.embedded"
+      ],
+      "settings": {
+        "fontStyle": "italic"
+      }
+    },
+    {
+      "scope": "keyword.control",
+      "settings": {
+        "fontStyle": "italic"
+      }
+    },
+    {
+      "scope": [
+        "keyword.operator.new",
+        "keyword.operator.expression",
+        "keyword.operator.cast",
+        "keyword.operator.sizeof",
+        "keyword.operator.logical.python"
+      ],
+      "settings": {
+        "fontStyle": "italic"
+      }
+    },
+    {
+      "name": "this.self",
+      "scope": "variable.language",
+      "settings": {
+        "fontStyle": "italic"
+      }
+    },
+    {
+      "name": "@Decorator",
+      "scope": ["meta.decorator punctuation.decorator"],
+      "settings": {
+        "fontStyle": "italic"
+      }
+    },
+    {
+      "scope": ["punctuation.definition.comment", "comment"],
+      "settings": {
+        "fontStyle": "italic"
+      }
     }
   ],
-  "uuid": "7cfbc538-8f36-468d-a088-610cbde842fe",
+  "uuid": "c0dd251d-dd5e-475f-a892-2febcfd29361",
   "colorSpaceName": "sRGB"
 }
