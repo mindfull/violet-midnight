@@ -4,6 +4,12 @@ All notable changes to the "theme-violetnoon" extension will be documented in th
 
 The format is based on [Keep a Changelog](http://keepachangelog.com/).
 
+## v1.1.1 - 2022-03-10
+
+### Fixed
+
+- Fix typo in README.md
+
 ## v1.1.0 - 2022-03-10
 
 ### Added
