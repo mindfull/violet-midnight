@@ -2,6 +2,8 @@
 
 Violet and dark theme for Visual Studio Code. Based on Atom's One Dark.
 
+Italic version is based on ![an article by James G. Best](https://dev.to/salted-bytes/adding-italics-support-to-your-favourite-vscode-theme-2ec9)
+
 ## Install
 
 Press `ctl/cmd + shift + p` to launch the command palette then run
