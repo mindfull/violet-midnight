@@ -4,13 +4,22 @@ All notable changes to the "theme-violetnoon" extension will be documented in th
 
 The format is based on [Keep a Changelog](http://keepachangelog.com/).
 
+## v1.1.0 - 2022-03-10
+
+### Added
+
+- Add support for italic version of the theme
+
+### Fixed
+
+- Adjust color for CSS property name
+
 ## v1.0.1 - 2018-03-21
 
 ### Fixed
 
 - Add missing changelog
 - Replace screenshot for the new color set
-
 
 ## v1.0.0 - 2018-03-20
 
