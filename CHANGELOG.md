@@ -4,6 +4,13 @@ All notable changes to the "theme-violetnoon" extension will be documented in th
 
 The format is based on [Keep a Changelog](http://keepachangelog.com/).
 
+## v1.2.0 - 2024-03-04
+
+### Fixed
+
+- Adjust selection background
+- Adjust word highlight background
+
 ## v1.1.1 - 2022-03-10
 
 ### Fixed

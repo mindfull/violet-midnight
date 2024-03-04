@@ -18,6 +18,7 @@ ext install theme-violet-midnight
 
 ## Changelog
 
+* v1.2.0: Adjust selection background and word highlight background for better readability
 * v1.1.1: Fix typo in README.md
 * v1.1.0: Supports italic version of the theme
 * v1.0.1: Update screenshot and changelog
